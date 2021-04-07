@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70fc2b6d-8a38-4dc0-8c0d-b76b03af7272" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../bob/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bob/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gigasecond/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grade-school/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grade-school/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pangram.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/pangram.spec.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1oexamoHI9Vhz2RIcR5pt8OwpRv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.Pangram()">
+    <configuration name="Pangram()" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <jest-options value="--watchAll" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/pangram.spec.js" />
+      <test-names>
+        <test-name value="Pangram()" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="pangram.spec.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/pangram.spec.js" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.Pangram()" />
+      <item itemvalue="Jest.pangram.spec.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.pangram.spec.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70fc2b6d-8a38-4dc0-8c0d-b76b03af7272" name="Default Changelist" comment="" />
+      <created>1613660924394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613660924394</updated>
+      <workItem from="1613660927010" duration="645000" />
+      <workItem from="1613677895158" duration="1550000" />
+      <workItem from="1617807268518" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
