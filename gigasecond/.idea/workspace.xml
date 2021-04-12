@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="97935ff0-b2d1-4ea9-862c-d6fd760f9d95" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../bob/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bob/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,6 @@
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
-      <jest-options value="--watchAll" />
       <envs />
       <scope-kind value="SUITE" />
       <test-file value="$PROJECT_DIR$/gigasecond.spec.js" />
@@ -67,6 +67,7 @@
       <workItem from="1613678070590" duration="21000" />
       <workItem from="1613680979895" duration="1137000" />
       <workItem from="1617806405986" duration="91000" />
+      <workItem from="1618251289740" duration="72000" />
     </task>
     <servers />
   </component>

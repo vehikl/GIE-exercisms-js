@@ -8,7 +8,7 @@
       <change beforePath="$PROJECT_DIR$/../hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pangram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pangram/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rna-transcription.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/rna-transcription.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,6 @@
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
-      <jest-options value="--watchAll" />
       <envs />
       <scope-kind value="SUITE" />
       <test-file value="$PROJECT_DIR$/rna-transcription.spec.js" />
@@ -70,6 +69,7 @@
       <workItem from="1613063220174" duration="15000" />
       <workItem from="1613682649666" duration="844000" />
       <workItem from="1617807467877" duration="38000" />
+      <workItem from="1618251682634" duration="714000" />
     </task>
     <servers />
   </component>

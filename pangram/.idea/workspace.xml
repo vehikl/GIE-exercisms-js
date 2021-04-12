@@ -6,7 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gigasecond/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../grade-school/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grade-school/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pangram.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/pangram.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,6 @@
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
-      <jest-options value="--watchAll" />
       <envs />
       <scope-kind value="SUITE" />
       <test-file value="$PROJECT_DIR$/pangram.spec.js" />
@@ -79,6 +78,7 @@
       <workItem from="1613660927010" duration="645000" />
       <workItem from="1613677895158" duration="1550000" />
       <workItem from="1617807268518" duration="58000" />
+      <workItem from="1618251391628" duration="29000" />
     </task>
     <servers />
   </component>

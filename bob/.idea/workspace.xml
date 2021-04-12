@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17b93c7e-f5fa-45af-aa12-6c1a42e4e5e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bob.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/bob.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,6 @@
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
-      <jest-options value="--watchAll" />
       <envs />
       <scope-kind value="SUITE" />
       <test-file value="$PROJECT_DIR$/bob.spec.js" />
@@ -66,6 +65,7 @@
       <workItem from="1613683496223" duration="1675000" />
       <workItem from="1613685234130" duration="88000" />
       <workItem from="1617805762665" duration="70000" />
+      <workItem from="1618251266168" duration="22000" />
     </task>
     <servers />
   </component>
